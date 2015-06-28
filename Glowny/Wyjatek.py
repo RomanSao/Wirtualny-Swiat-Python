@@ -1,0 +1,5 @@
+
+class WyjatekCzlowieka(Exception):
+    pass
+
+        
